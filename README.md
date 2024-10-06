@@ -3,7 +3,7 @@
 <!-- Bannner personalizado con tu nombre -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Diego%20Andrés%20Ramírez%20Mejía&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=2E9EFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Developer+Fullstack+%7C+Blockchain+Enthusiast;HackAvax+Medell%C3%ADn+Winner+%7C+Future+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=2E9EFF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Software+Developer+Fullstack+%7C+Blockchain+Enthusiast;HackAvax+Medell%C3%ADn+Winner+(3rd+Place);Future+Software+Engineer)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="800" />
