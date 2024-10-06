@@ -70,7 +70,7 @@ const AboutMe = {
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/qt-original.svg" alt="PyQt" height="50" />
+<img style="margin: 10px" src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt" height="50" />
 </div>
 
 </td><td align="center" width="50%">
@@ -89,7 +89,7 @@ const AboutMe = {
 
 ### Blockchain Development
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ethereum.png" alt="Ethereum" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" alt="Web3.js" height="50" />
 </div>
 
